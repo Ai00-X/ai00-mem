@@ -35,6 +35,13 @@ An advanced memory system based on A-Mem and HippoRAG papers, designed for perso
 - **Batch Processing**: Support for batch operations and parallel processing
 - **Memory Optimization**: Efficient vector storage and compression algorithms
 
+### 🌍 Multi-Language Vector Embeddings
+- **Built-in Multilingual Support**: Native support for Chinese, English, Japanese, Korean, and more
+- **Model2Vec Integration**: Leverages model2vec-rs for efficient multilingual embeddings
+- **Cross-Language Retrieval**: Seamlessly search memories across different languages
+- **Language-Aware Processing**: Automatic language detection and optimized encoding
+- **Lightweight Models**: Optimized embedding models for resource-constrained environments
+
 ### 🔧 Flexible Configuration
 - **Database Support**: Focused on SQLite - lightweight yet powerful
 - **Modular Design**: Pluggable component architecture
@@ -247,4 +254,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspired by [A-Mem](https://arxiv.org/abs/2312.00001) and [HippoRAG](https://arxiv.org/abs/2405.14813)
 - Built with [Rust](https://www.rust-lang.org) and [SQLite](https://www.sqlite.org)
+- Multilingual embeddings powered by [model2vec-rs](https://github.com/anonymous-ai/model2vec-rs)
 - Thanks to the open-source community for inspiration and support
