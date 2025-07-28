@@ -254,5 +254,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspired by [A-Mem](https://arxiv.org/abs/2312.00001) and [HippoRAG](https://arxiv.org/abs/2405.14813)
 - Built with [Rust](https://www.rust-lang.org) and [SQLite](https://www.sqlite.org)
-- Multilingual embeddings powered by [model2vec-rs](https://github.com/anonymous-ai/model2vec-rs)
+- Multilingual embeddings powered by [model2vec-rs](https://github.com/MinishLab/model2vec-rs)
 - Thanks to the open-source community for inspiration and support

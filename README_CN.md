@@ -432,7 +432,7 @@ impl CustomLearningStrategy {
 - [A-Mem论文](https://arxiv.org/abs/2409.13282) - 动态记忆组织的灵感来源
 - [HippoRAG论文](https://arxiv.org/abs/2405.14831) - 神经生物学启发的检索算法
 - [Zettelkasten方法](https://zettelkasten.de/) - 记忆网络组织理念
-- [model2vec-rs](https://github.com/anonymous-ai/model2vec-rs) - 高效多语言嵌入支持
+- [model2vec-rs](https://github.com/MinishLab/model2vec-rs) - 高效多语言嵌入支持
 - Rust社区 - 优秀的生态系统和工具
 
 ## 📞 联系我们
