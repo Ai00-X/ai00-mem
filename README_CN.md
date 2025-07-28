@@ -307,7 +307,7 @@ ai00-mem = "0.1.0"
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-org/ai00-mem.git
+git clone https://github.com/Ai00-X/ai00-mem.git
 cd ai00-mem
 
 # 构建
@@ -401,7 +401,7 @@ impl CustomLearningStrategy {
 
 ### 报告问题
 
-请在 [GitHub Issues](https://github.com/your-org/ai00-mem/issues) 中报告问题，包括：
+请在 [GitHub Issues](https://github.com/Ai00-X/ai00-mem/issues) 中报告问题，包括：
 
 - 详细的问题描述
 - 复现步骤
@@ -437,10 +437,9 @@ impl CustomLearningStrategy {
 
 ## 📞 联系我们
 
-- 项目主页: [https://github.com/your-org/ai00-mem](https://github.com/your-org/ai00-mem)
+- 项目主页: [https://github.com/Ai00-X/ai00-mem](https://github.com/Ai00-X/ai00-mem)
 - 文档: [https://docs.rs/ai00-mem](https://docs.rs/ai00-mem)
-- 问题反馈: [GitHub Issues](https://github.com/your-org/ai00-mem/issues)
-- 邮箱: ai00-mem@example.com
+- 问题反馈: [GitHub Issues](https://github.com/Ai00-X/ai00-mem/issues)
 
 ---
 
