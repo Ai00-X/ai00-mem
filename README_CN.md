@@ -2,7 +2,7 @@
 
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.rs/ai00-mem)
+[![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.rs/ai00-mem/latest/ai00_mem)
 
 一个基于A-Mem和HippoRAG论文设计的高级记忆系统，为个人AI助手提供智能的记忆存储、检索和学习能力。
 

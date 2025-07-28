@@ -2,7 +2,7 @@
 
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://github.com/Ai00-X/ai00-mem)
+[![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.rs/ai00-mem/latest/ai00_mem)
 [![GitHub](https://img.shields.io/badge/github-repo-blue.svg)](https://github.com/Ai00-X/ai00-mem)
 
 **English** | [中文](README_CN.md)
